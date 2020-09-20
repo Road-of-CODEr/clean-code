@@ -35,9 +35,8 @@
 20. 부록C. 휴리스틱의 교차 참조 목록
 21. 마무리
 
-
 #### Contributors
 
-<a href="https://github.com/Road-of-CODEr/do-it-react/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Road-of-CODEr/do-it-react" />
+<a href="https://github.com/Road-of-CODEr/clean-code/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Road-of-CODEr/clean-code" />
 </a>
