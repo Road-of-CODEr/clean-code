@@ -11,7 +11,6 @@
 ### 스터디 개요
 
 - [Intro](20200920/README.md)
-- [타입스크립트 버전](https://github.com/738/clean-code-typescript)
 
 ### 진행상황
 
@@ -33,6 +32,10 @@
 16. SerialDate 리팩터링
 17. 냄새와 휴리스틱
 18. 마무리
+
+### 더 보기
+
+- [타입스크립트 버전](https://github.com/738/clean-code-typescript)
 
 #### Contributors
 
