@@ -11,6 +11,7 @@
 ### 스터디 개요
 
 - [Intro](20200920/README.md)
+- [타입스크립트 버전](https://github.com/738/clean-code-typescript)
 
 ### 진행상황
 
@@ -31,10 +32,7 @@
 15. JUnit 들여다보기
 16. SerialDate 리팩터링
 17. 냄새와 휴리스틱
-18. 부록A. 동시성2
-19. 부록B. org.jfree.date.SerialDate
-20. 부록C. 휴리스틱의 교차 참조 목록
-21. 마무리
+18. 마무리
 
 #### Contributors
 
