@@ -1,0 +1,14 @@
+{
+  "name": "jscode",
+  "version": "1.0.0",
+  "description": "for clean-code chapter14",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "1ilsang",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^26.5.3"
+  }
+}
