@@ -26,7 +26,8 @@
     },
     "testRegex": "\\.spec\\.ts$",
     "moduleFileExtensions": [
-      "ts", "js"
+      "ts",
+      "js"
     ],
     "globals": {
       "ts-jest": {
