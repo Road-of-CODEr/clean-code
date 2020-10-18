@@ -1,0 +1,38 @@
+{
+  "name": "jscode",
+  "version": "1.0.0",
+  "description": "for clean-code chapter14",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "prettier": "prettier complete/*"
+  },
+  "author": "1ilsang",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.11.10",
+    "jest": "^26.5.3",
+    "prettier": "^2.1.2",
+    "typescript": "^4.0.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.14",
+    "ts-jest": "^26.4.1",
+    "ts-node": "^9.0.0"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.ts$": "ts-jest"
+    },
+    "testRegex": "\\.spec\\.ts$",
+    "moduleFileExtensions": [
+      "ts",
+      "js"
+    ],
+    "globals": {
+      "ts-jest": {
+        "enableTsDiagnostics": true
+      }
+    }
+  }
+}
