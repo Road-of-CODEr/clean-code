@@ -21,3 +21,4 @@
 - [huisam](study/huisam.md)
 - [hayoung](study/hayoung.md)
 - [changeon](study/changeon.md)
+- [soyoung](study/soyoung.md)
