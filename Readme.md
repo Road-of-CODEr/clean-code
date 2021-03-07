@@ -28,7 +28,7 @@
 12. [창발성](20201011/chapter12.md)
 13. [동시성](20201011/chapter13.md)
 14. [점진적인 개선(+ ver.TypeScript)](20201018/chapter14.md)
-15. JUnit 들여다보기
+15. [JUnit 들여다보기](/20210307/chapter15.md)
 16. SerialDate 리팩터링
 17. [냄새와 휴리스틱](20201025/chapter17.md)
 18. [마무리](20201025/end.md)
